@@ -1,0 +1,20 @@
+# --- 1. SENSITIVE SECRETS (Do not upload!) ---
+src/main/resources/application.properties
+.env
+
+# --- 2. JUNK & DEPENDENCIES (Too heavy) ---
+node_modules/
+/inventory-client/node_modules/
+target/
+build/
+dist/
+out/
+
+# --- 3. IDE SETTINGS (Personal preferences) ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# --- 4. LOGS ---
+*.log
