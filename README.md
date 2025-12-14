@@ -2,6 +2,8 @@
 
 A full-stack Inventory Management System designed to track products, manage suppliers, record sales, and monitor stock levels efficiently. Built using **Java Spring Boot** for the backend and **React.js** for the frontend.
 
+Deployed Link : https://smart-inventory-management-281n.onrender.com
+
 ## 🚀 Features
 
 * **Product Management:** Add, update, delete, and view inventory items.
